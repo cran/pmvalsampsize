@@ -1,0 +1,9 @@
+fe0b4288aef83a7fbf2249fb754bbb5d *DESCRIPTION
+947269699b33b6f6de178c510ba3a501 *NAMESPACE
+8e9701b6d3413882d69b63ebc4bb39a5 *NEWS.md
+bcea23e16999b5c3046ba44ecb2e4938 *R/pmvalsampsize.R
+f9ec96986eec16c7f0a3b34769a0e875 *R/pmvalsampsize_bin.R
+8bbb12f79f1b8dda3ece33624097493d *R/pmvalsampsize_errorcheck.R
+c2e370a428ddc98ce7f3360e442b9f99 *man/pmvalsampsize.Rd
+de28e3aaae1613134af4a46e75c5a761 *tests/testthat/test_bin.R
+2f0d9b8c3ded58f7a3faef8a4b778ba7 *tests/testthat/test_syntax.R
